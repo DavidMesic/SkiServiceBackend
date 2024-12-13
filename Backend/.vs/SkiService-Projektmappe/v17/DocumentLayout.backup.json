@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\controllers\\auftragcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\controllers\\auftragcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\models\\accountlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\models\\accountlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|c:\\users\\ger\u00E4tvondavid\\documents\\ipso\\ict-module\\modul 295 (\u00FCk)\\skiservice-projektmappe\\backend\\skiserviceapi\\models\\auftrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB0A68A-0091-4B10-86C3-EB4F8D5B4B06}|SkiServiceAPI\\SkiServiceAPI.csproj|solutionrelative:skiserviceapi\\models\\auftrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\appsettings.json",
+              "RelativeToolTip": "SkiServiceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T21:22:55.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Program.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:10:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auftrag.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\Auftrag.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Models\\Auftrag.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\Auftrag.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Models\\Auftrag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:57:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\AccountLogin.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Models\\AccountLogin.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\AccountLogin.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Models\\AccountLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:35:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuftragController.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\AuftragController.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Controllers\\AuftragController.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\AuftragController.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Controllers\\AuftragController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:27:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Models\\Account.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:58:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:30:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SkiServiceAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ger\u00E4tvonDavid\\Documents\\Ipso\\ICT-Module\\Modul 295 (\u00DCK)\\SkiService-Projektmappe\\Backend\\SkiServiceAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SkiServiceAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:01:03.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
